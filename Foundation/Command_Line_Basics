@@ -1,0 +1,7 @@
+cd ~
+touch test
+cd test
+touch test.txt
+nano test.txt (Ctrl+O : Save)
+cd ..
+rmdir -rf test
